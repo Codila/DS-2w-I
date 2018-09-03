@@ -12,3 +12,6 @@ Some Questions?
     The patients qualify for second line ART if they demonstrate CD4 decline to pre-ART values, CD4 drop to less than 50% of peak on-treatment value, failure to achieve CD4 greater than 100 c/mm3 (immunologic failure), or develop a new WHO stage III/IV AIDS-defining illness (clinical failure), or those with HIV RNA 10,000 c/ml or greater (virological failure).[7]\
   More factors for making the prediction body weight, WHO stage, opportunistic infections
   Regression problem- Given the rate of ART failure what percent/capita will be the victim of Drug resitance by the year 2030
+  
+  One question to answer  by model could be which treatment failure can be dropped from the current availble treatments w/o affecting the drug resistance or ART theray effectiveness hence which can save lots of cost and that cost can be put to utilized for better second line treatments...
+333
