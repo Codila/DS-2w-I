@@ -1,4 +1,4 @@
-# HIV Drug Resistance Prediction - India by year 2030
+# HIV Drug Resistance Predictions
 
 Reason for Study:
 Anti-retroviral therapy (ART) has successfully helped managing HIV/AIDS, but lead to emergence of HIVDR mutations.
