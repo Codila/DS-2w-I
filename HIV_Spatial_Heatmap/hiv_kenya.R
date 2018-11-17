@@ -26,3 +26,4 @@ l %>% addPolygons(color = "gray", weight = 1, fillColor = ~pal(COUNTY3_ID), fill
 str(kenya.df$COUNTY3_ID)
 View(kenya@data)
 str(kenya)
+ 
