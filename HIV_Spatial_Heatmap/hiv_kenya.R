@@ -1,7 +1,7 @@
 require("rgdal") # requires sp, will use proj.4 if installed
 require("maptools")
 require("ggplot2")
-require("plyr")
+require("plyr") 
 # reading in the shape file
 kenya = readOGR(dsn="C:/Users/Varun-PC/Desktop/HIV_Hack/Kenya/ShapeFile/kenyan-counties",layer = "County")
 kenya@data$id = rownames(kenya@data)
