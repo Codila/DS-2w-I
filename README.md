@@ -14,4 +14,3 @@ Some Questions?
   Regression problem- Given the rate of ART failure what percent/capita will be the victim of Drug resitance by the year 2030
   
   One question to answer  by model could be which treatment failure can be dropped from the current availble treatments w/o affecting the drug resistance or ART theray effectiveness hence which can save lots of cost and that cost can be put to utilized for better second line treatments...
-333
