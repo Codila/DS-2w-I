@@ -8,8 +8,7 @@ parameters{
 	vector[nX] coef ;
 }
 model{
-	coef ~ normal(0,10) ; # prior on the intercept with
-	#broad variance
+	coef ~ normal(0,10) ; # prior on the intercept with broad variance
 	y ~ bernoulli_logit(x*coef ) ; # random coin which #has a bias associated with it reflected on the log odds #scale
 }
 generated quantities{
